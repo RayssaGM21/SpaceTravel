@@ -1,0 +1,37 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+# Visual Studio / MonoDevelop
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.csproj
+*.sln
+*.userprefs
+*.user
+*.pidb
+*.suo
+*.tmp
+*.userprefs
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Backup & cache
+*.bak
+*.swp
+*.tmp
+*.tmp.unity
+*.pidb.meta
+*.pdb
+*.mdb
